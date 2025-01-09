@@ -153,3 +153,22 @@ margin: 30px 5px;
 .reseme-download-cv{
 margin-top: 50px;
 }
+/* footer styles */
+footer{
+padding: 130px 230px;
+display: flex;
+gap: 100px;
+}
+.footer-column{
+width: 50%;
+}
+footer input[type="text"], footer textarea{
+height: 28px;
+border-radius: 5px;
+background-color: white;
+display: block;
+width: 100%;
+padding: 10px 20px;
+margin-bottom: 24px;
+border: none;
+}
